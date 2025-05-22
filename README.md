@@ -11,11 +11,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/sofi_mylnik"/>
   </a>
 </div>
-
-<div id="socials" align="center">
-    [![Twitter](https://img.shields.io/badge/Telegram-1DA1F2?style=flat&logo=telegram&logoColor=white)](https://t.me/sofi_mylnik)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-</div>
 ---
 ### :woman_technologist: About Me :
 - 🌱 I’m currently learning ML and Computer Vision
