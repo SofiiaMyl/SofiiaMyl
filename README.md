@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Sofiia 👋</h1>
-    <h3>Full Stack Developer from New York</h3>
+    <h3>I am an aspiring machine learning specialist</h3>
 </div>
----
+
 <div id="socials" align="center">
     <a href="linkedin-url">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
