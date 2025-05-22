@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 ---
 ### :hammer_and_wrench: Languages and Tools :
-<div id="stat" align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" **alt="sklearn" width="40" height="40"/>
@@ -52,11 +52,4 @@ Here are some ideas to get you started:
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofiiamyl&theme=slateorange"  alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofiiamyl&theme=slateorange"  alt=""/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofiiamyl&theme=dark"  alt=""/>
-    
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiiamyl&theme=slateorange)
-    
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofiiamyl&theme=slateorange)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofiiamyl&theme=slateorange)
-    
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiiamyl&theme=dark)](https://git.io/streak-stats)
 </div>
