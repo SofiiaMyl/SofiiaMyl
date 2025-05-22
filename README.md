@@ -48,10 +48,8 @@ Here are some ideas to get you started:
 ---
 ### :fire: My Stats : 
 <div id="stat" align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiiamyl&theme=slateorange)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofiiamyl&theme=slateorange)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofiiamyl&theme=slateorange)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiiamyl&theme=dark)](https://git.io/streak-stats)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiiamyl&theme=slateorange)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofiiamyl&theme=slateorange)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofiiamyl&theme=slateorange)
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiiamyl&theme=dark)](https://git.io/streak-stats)
 </div>
