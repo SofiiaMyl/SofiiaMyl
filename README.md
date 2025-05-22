@@ -1,5 +1,8 @@
 ## Hi there, I'm Sofiia 👋
-
+---
+### :woman_technologist: About Me :
+- 🌱 I’m currently learning ML and Computer Vision
+- 📫 How to reach me Sofiia.mylnikova@gmail.com
 <!--
 **SofiiaMyl/SofiiaMyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -27,6 +31,8 @@ Here are some ideas to get you started:
 
 ---
 ### :fire: My Stats : 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiiamyl&theme=slateorange)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiiamyl&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiiamyl&layout=compact)](https://github.com/sofiiamyl/github-readme-stats)
