@@ -48,6 +48,11 @@ Here are some ideas to get you started:
 ---
 ### :fire: My Stats : 
 <div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiiamyl&theme=slateorange"  alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofiiamyl&theme=slateorange"  alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofiiamyl&theme=slateorange"  alt=""/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofiiamyl&theme=dark"  alt=""/>
+    
     ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiiamyl&theme=slateorange)
     
     ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofiiamyl&theme=slateorange)
