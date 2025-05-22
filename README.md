@@ -12,9 +12,10 @@
   </a>
 </div>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
+<div id="socials" align="center">
+    [![Twitter](https://img.shields.io/badge/Telegram-1DA1F2?style=flat&logo=telegram&logoColor=white)](https://t.me/sofi_mylnik)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+</div>
 ---
 ### :woman_technologist: About Me :
 - 🌱 I’m currently learning ML and Computer Vision
